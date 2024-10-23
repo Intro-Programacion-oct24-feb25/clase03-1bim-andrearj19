@@ -27,13 +27,18 @@ public class Ejemplo05 {
         System.out.println(10 / (3.0 + 1));
         
         System.out.println("----------------");
+        // esta operacion es para hacer un calculo del residuo
+        
         System.out.println(10 % 3 );
+        // esta operacion es para sacar el residuo
         
         System.out.println("----------------");
         System.out.println(Math.pow(10, 2));
+        // esta operacion es para elevar un numero
         
         System.out.println("----------------");
         System.out.println(Math.sqrt(16));
+        // esta operacion es para sacar la raiz cuadrada
         
         double m = Math.sqrt(16);
         System.out.println(m);
